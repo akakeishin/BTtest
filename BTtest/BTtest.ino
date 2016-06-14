@@ -1,9 +1,6 @@
 #include <SoftwareSerial.h>
 
 #define LED 13
-#define SRX 10
-#define STX 11
-
 
 void setup() {
   pinMode(LED, OUTPUT);
