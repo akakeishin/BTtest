@@ -1,5 +1,3 @@
-#include <SoftwareSerial.h>
-
 #define LED 13
 
 void setup() {
